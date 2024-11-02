@@ -17,9 +17,9 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 😂 Fun Fact **Your brain is sometimes more active when you're asleep than when you're awake.**
+- 😂 Fun Fact : **Your brain is sometimes more active when you're asleep than when you're awake.**
 
-- 📫 How to reach me **kamarailham10@gmail.com**
+- 📫 How to reach me : **kamarailham10@gmail.com**
 
 <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://github.com/KamaraIlham" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://fb.com/Kamara Ilham" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://instagram.com/kamara.ilham" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg alt="profile-radme-generator" height="30" width="40" /></a> </p>
 

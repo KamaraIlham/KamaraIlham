@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 😂 Func Fact **Your brain is sometimes more active when you're asleep than when you're awake.**
+- 😂 Fun Fact **Your brain is sometimes more active when you're asleep than when you're awake.**
 
 - 📫 How to reach me **kamarailham10@gmail.com**
 
